@@ -9,3 +9,9 @@ Pada materi kali ini tentang Python, saya mempelajari topik penting yaitu mengen
 # 3) Condition Looping Function.ipynb
 
 
+# 4) 
+
+# 5) Handling Missing Data & Data Cleaning
+Pada materi ini saya mempelajari materi mengenai standarisasi data, menghandling missing data dan data cleaning. Pada standarisasi data mempelajari mengenai menyeragamkan format tanggal , mengubah suatu string menjadi string yang lain, mengubah / mentransformasi tipedata dan mengubah string menjadi format datetime, lalu juga. Untuk handling missing data mempelajari mengenai mendeteksi Missing Data, mengatasi missing data seperti menghapus baris dari data yang kosong atau missing dan mengisi nilai yang hilang / missing dalam data
+
+
